@@ -31,7 +31,7 @@ The hardest part of this entire lab is setting up the honeypot in GCP.
 
 **number of attacks until the server close : 643
 
-![Alt Text](ServerAttack.jpg)
+![Alt Text](https://github.com/mdjislam123/codepath_homework/blob/Unit-9-honeypot/ServerAttack.png)
 
 **Top 5 Attacker IPs:** 
 1. 89.248.165.83 (37 attacks)
